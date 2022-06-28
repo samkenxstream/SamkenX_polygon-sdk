@@ -1,8 +1,8 @@
 
-# Polygon SDK
+# SamkenX-Polygon SDK
 
 
-Polygon SDK is a modular and extensible framework for building Ethereum-compatible blockchain networks. 
+SamkenX-Polygon SDK is a modular and extensible framework for building Ethereum-compatible blockchain networks. 
 
 This repository is the first implementation of Polygon SDK, written in Golang. Other implementations, written in other programming languages might be introduced in the future. If you would like to contribute to this or any future implementation, please reach out to [Polygon team](mailto:contact@polygon.technology).
 
